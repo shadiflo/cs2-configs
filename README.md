@@ -120,3 +120,5 @@ Editing the "Counter-strike 2" profile, starting from default settings:
 | `0x00598949` (Image Sharpening - enabled) | `0x0000000F`      |
 
 Don't forget to click "Apply changes".
+
+#my personal configs, tutorial taken from another source  @ndunnett
